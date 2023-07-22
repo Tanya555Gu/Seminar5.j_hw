@@ -19,7 +19,7 @@ public class task_1 {
         phoneNums.add("Виталий", "1965874");
         phoneNums.add("Иван", "9635428");
         phoneNums.add("Александр", "5965741");
-
+;
         System.out.println(phoneNums.getAll());
     }
 }
